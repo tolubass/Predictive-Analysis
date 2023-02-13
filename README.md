@@ -1,1 +1,1 @@
-# Predictive-Analysis
+# The aim of this project is to develop models to predict which customers are more likely to change and take actions accordingly by analyzing its characteristicss such as the demographic information, account information and services information. The objective is to obtain a data driven solution that will allow us to reduce churn rates and, as a consequence, to increase customer satisfaction and corporation revenue.
